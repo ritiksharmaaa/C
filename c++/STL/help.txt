@@ -1,0 +1,22 @@
+# stl give c++ a superpower 
+
+stl have three main coponent 
+
+1 container : - data structure ex :- string array vector 
+2 iterator : -  sort of loop like thing / and it make a relation from container to algo   
+3 algorithm : - algo to doing operation on data structure 
+
+
+// we create a conceptual store 
+we use vector to store list of product 
+and list to track order 
+deque : - to check recent visit 
+set : - store unique value 
+map : -  key val paire store / track stock account 
+multimap :- custome can allow mulitpe order from single person 
+unorderd_map :-
+unorderd_set :- 
+
+
+
+

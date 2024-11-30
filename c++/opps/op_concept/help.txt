@@ -1,0 +1,1 @@
+# int his file  encaplution abstract class , virtual function 
